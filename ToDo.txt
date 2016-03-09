@@ -1,0 +1,2 @@
+Open Java EE 7 git.
+Begin cataloging use examples, and sample code I've written.
